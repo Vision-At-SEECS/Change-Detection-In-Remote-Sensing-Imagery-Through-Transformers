@@ -2,7 +2,7 @@
 
 Here, we provide the pytorch implementation of the paper: Remote Sensing Image Change Detection with Transformers.
 
-![image-20210228153142126](./images/pipeline.png)
+![t_pipeline](https://github.com/user-attachments/assets/92be0ee4-de03-432b-9926-84eef23c167f)
 
 ## Requirements
 
@@ -26,7 +26,7 @@ cd BIT_CD
 
 We have some samples from the [LEVIR-CD](https://justchenhao.github.io/LEVIR/) dataset in the folder `samples` for a quick start.
 
-Firstly, you can download our BIT pretrained model——by [baidu drive, code: 2lyz](https://pan.baidu.com/s/1HiXwpspl6odYQKda6pMuZQ) or [google drive](https://drive.google.com/file/d/1IVdF5a3e1_7DiSndtMkhpZuCSgDLLFcg/view?usp=sharing). After downloaded the pretrained model, you can put it in `checkpoints/BIT_LEVIR/`.
+Firstly, you can download the BIT pretrained model —— by [baidu drive, code: 2lyz](https://pan.baidu.com/s/1HiXwpspl6odYQKda6pMuZQ) or [google drive](https://drive.google.com/file/d/1IVdF5a3e1_7DiSndtMkhpZuCSgDLLFcg/view?usp=sharing). After downloading the pretrained model, you can put it in `checkpoints/BIT_LEVIR/`.
 
 Then, run a demo to get started as follows:
 
