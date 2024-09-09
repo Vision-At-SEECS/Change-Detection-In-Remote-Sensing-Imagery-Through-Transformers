@@ -1,6 +1,6 @@
 # Change Detection In Remote Sensing Imagery Through Transformers
 
-Here, we provide the pytorch implementation of the paper: Remote Sensing Image Change Detection with Transformers.
+Here, we provide the pytorch implementation change detection in remote sensing imagery with transformers.
 
 ![t_pipeline](https://github.com/user-attachments/assets/92be0ee4-de03-432b-9926-84eef23c167f)
 
